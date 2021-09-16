@@ -1,0 +1,7 @@
+Library/
+Temp/
+.vs/
+obj/
+Recordings/
+*.csproj
+*.sln
